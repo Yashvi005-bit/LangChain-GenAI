@@ -1,4 +1,4 @@
-# LangChain Learning 🚀
+# LangChain Learning 
 
 This repository contains my hands-on implementations while learning **LangChain**. The goal is to understand the core concepts behind building LLM-powered applications by writing code, experimenting with different components, and implementing practical examples.
 
